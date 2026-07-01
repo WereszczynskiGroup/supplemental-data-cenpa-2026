@@ -1,0 +1,9 @@
+Found 7 hbonds.
+donor 		 acceptor 	 occupancy
+DG231-Side 	 VAL329-Main 	 0.05%
+VAL329-Main 	 DG145-Side 	 1.10%
+VAL329-Main 	 DG155-Side 	 0.15%
+VAL329-Main 	 DT154-Side 	 0.50%
+VAL329-Main 	 DA153-Side 	 4.30%
+DA153-Side 	 VAL329-Main 	 0.35%
+VAL329-Side 	 DT154-Side 	 0.15%

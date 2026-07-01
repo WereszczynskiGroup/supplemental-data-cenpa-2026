@@ -1,0 +1,8 @@
+Found 6 hbonds.
+donor 		 acceptor 	 occupancy
+VAL825-Side 	 DT3294-Side 	 0.50%
+DA51-Side 	 VAL825-Main 	 0.90%
+VAL825-Main 	 DA51-Side 	 0.35%
+DT3294-Side 	 VAL825-Main 	 0.05%
+VAL825-Side 	 DA51-Side 	 0.05%
+VAL825-Main 	 DT3294-Side 	 5.00%

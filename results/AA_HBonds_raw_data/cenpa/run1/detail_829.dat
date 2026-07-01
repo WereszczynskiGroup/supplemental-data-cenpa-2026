@@ -1,0 +1,10 @@
+Found 8 hbonds.
+donor 		 acceptor 	 occupancy
+SER829-Side 	 DG215-Side 	 38.50%
+SER829-Side 	 DA293-Side 	 0.30%
+SER829-Side 	 DG292-Side 	 0.05%
+SER829-Main 	 DG215-Side 	 0.35%
+DG214-Side 	 SER829-Side 	 0.15%
+DG214-Side 	 SER829-Main 	 0.40%
+SER829-Side 	 DC84-Side 	 8.65%
+DC84-Side 	 SER829-Side 	 0.45%

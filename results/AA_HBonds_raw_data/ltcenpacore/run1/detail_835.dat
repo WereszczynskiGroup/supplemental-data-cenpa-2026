@@ -1,0 +1,15 @@
+Found 13 hbonds.
+donor 		 acceptor 	 occupancy
+GLN835-Side 	 DG216-Side 	 0.50%
+GLN835-Side 	 DA8-Side 	 0.55%
+GLN835-Side 	 DT290-Side 	 0.05%
+GLN835-Side 	 DG292-Side 	 0.45%
+GLN835-Side 	 DC291-Side 	 0.25%
+DA7-Side 	 GLN835-Side 	 0.10%
+GLN835-Side 	 DA7-Side 	 0.15%
+DA7-Side 	 GLN835-Main 	 0.05%
+GLN835-Side 	 DG83-Side 	 9.55%
+GLN835-Side 	 DC84-Side 	 6.30%
+DG83-Side 	 GLN835-Side 	 1.20%
+GLN835-Main 	 DA7-Side 	 0.10%
+DA8-Side 	 GLN835-Side 	 0.10%

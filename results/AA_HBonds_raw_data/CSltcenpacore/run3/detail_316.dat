@@ -1,0 +1,10 @@
+Found 8 hbonds.
+donor 		 acceptor 	 occupancy
+THR316-Main 	 DG223-Side 	 3.30%
+THR316-Side 	 DA224-Side 	 3.90%
+THR316-Side 	 DG223-Side 	 19.85%
+THR316-Side 	 DA222-Side 	 0.15%
+DG223-Side 	 THR316-Side 	 0.20%
+THR316-Side 	 DG225-Side 	 0.55%
+THR316-Main 	 DA224-Side 	 1.40%
+DA224-Side 	 THR316-Side 	 0.25%

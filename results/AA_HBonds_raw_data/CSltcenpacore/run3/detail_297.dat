@@ -1,0 +1,13 @@
+Found 11 hbonds.
+donor 		 acceptor 	 occupancy
+THR297-Main 	 DA220-Side 	 0.10%
+THR297-Main 	 DT79-Side 	 0.15%
+THR297-Main 	 DG78-Side 	 13.40%
+DA220-Side 	 THR297-Main 	 1.65%
+THR297-Side 	 DA220-Side 	 6.30%
+THR297-Side 	 DC221-Side 	 1.75%
+DA220-Side 	 THR297-Side 	 0.10%
+THR297-Side 	 DG78-Side 	 16.05%
+THR297-Main 	 DA77-Side 	 1.05%
+DA77-Side 	 THR297-Main 	 2.05%
+THR297-Side 	 DA77-Side 	 0.20%

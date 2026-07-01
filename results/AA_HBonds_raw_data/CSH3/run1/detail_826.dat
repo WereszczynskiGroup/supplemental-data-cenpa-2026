@@ -1,0 +1,14 @@
+Found 12 hbonds.
+donor 		 acceptor 	 occupancy
+TYR826-Main 	 DC84-Side 	 25.25%
+DA83-Side 	 TYR826-Main 	 11.70%
+TYR826-Main 	 DA83-Side 	 4.25%
+TYR826-Side 	 DC84-Side 	 2.60%
+TYR826-Side 	 DA83-Side 	 1.35%
+TYR826-Side 	 DG292-Side 	 1.90%
+TYR826-Side 	 DT7-Side 	 19.25%
+TYR826-Side 	 DA6-Side 	 26.30%
+TYR826-Side 	 DA293-Side 	 0.05%
+DA6-Side 	 TYR826-Side 	 0.05%
+DT7-Side 	 TYR826-Side 	 0.05%
+TYR826-Side 	 DT291-Side 	 0.10%

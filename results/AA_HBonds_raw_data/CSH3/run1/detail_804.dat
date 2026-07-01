@@ -1,0 +1,16 @@
+Found 14 hbonds.
+donor 		 acceptor 	 occupancy
+GLN804-Side 	 DA206-Side 	 3.85%
+GLN804-Side 	 DG205-Side 	 3.70%
+GLN804-Main 	 DG205-Side 	 2.20%
+GLN804-Side 	 DT204-Side 	 2.15%
+GLN804-Main 	 DA206-Side 	 0.10%
+DG205-Side 	 GLN804-Side 	 0.10%
+GLN804-Side 	 DC87-Side 	 0.35%
+GLN804-Side 	 DC86-Side 	 0.05%
+DG205-Side 	 GLN804-Main 	 0.05%
+GLN804-Side 	 DA88-Side 	 0.85%
+DC90-Side 	 GLN804-Side 	 0.05%
+GLN804-Side 	 DT89-Side 	 0.15%
+GLN804-Side 	 DA203-Side 	 0.65%
+GLN804-Main 	 DA88-Side 	 0.70%

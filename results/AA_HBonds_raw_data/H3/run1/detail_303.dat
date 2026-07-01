@@ -1,0 +1,9 @@
+Found 7 hbonds.
+donor 		 acceptor 	 occupancy
+LYS303-Side 	 DA69-Side 	 0.25%
+LYS303-Side 	 DT68-Side 	 29.25%
+LYS303-Side 	 DG67-Side 	 17.05%
+LYS303-Main 	 DG67-Side 	 57.85%
+DG67-Side 	 LYS303-Side 	 0.05%
+LYS303-Side 	 DT3147-Side 	 0.10%
+LYS303-Side 	 DA146-Side 	 6.45%

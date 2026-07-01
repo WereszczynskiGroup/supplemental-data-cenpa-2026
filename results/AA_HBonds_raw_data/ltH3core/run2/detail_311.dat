@@ -1,0 +1,7 @@
+Found 5 hbonds.
+donor 		 acceptor 	 occupancy
+PRO311-Main 	 DC232-Side 	 0.05%
+PRO311-Side 	 DC232-Side 	 0.10%
+DT3147-Side 	 PRO311-Main 	 4.60%
+PRO311-Main 	 DT3147-Side 	 0.60%
+PRO311-Side 	 DT3147-Side 	 0.20%

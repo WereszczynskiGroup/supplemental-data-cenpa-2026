@@ -1,0 +1,9 @@
+Found 7 hbonds.
+donor 		 acceptor 	 occupancy
+GLU799-Main 	 DA286-Side 	 8.30%
+DA286-Side 	 GLU799-Side 	 0.35%
+DA12-Side 	 GLU799-Side 	 0.15%
+GLU799-Side 	 DA286-Side 	 0.05%
+GLU799-Side 	 DG285-Side 	 0.25%
+DG285-Side 	 GLU799-Side 	 0.70%
+GLU799-Main 	 DG285-Side 	 0.05%

@@ -1,0 +1,9 @@
+Found 7 hbonds.
+donor 		 acceptor 	 occupancy
+THR338-Main 	 DG154-Side 	 2.90%
+THR338-Side 	 DG154-Side 	 2.10%
+DG154-Side 	 THR338-Side 	 0.05%
+THR338-Side 	 DA155-Side 	 0.10%
+THR338-Side 	 DA230-Side 	 9.15%
+THR338-Main 	 DA230-Side 	 0.50%
+THR338-Side 	 DA229-Side 	 0.10%

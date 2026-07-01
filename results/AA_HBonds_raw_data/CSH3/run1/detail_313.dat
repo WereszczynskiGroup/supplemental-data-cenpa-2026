@@ -1,0 +1,11 @@
+Found 9 hbonds.
+donor 		 acceptor 	 occupancy
+DA222-Side 	 GLN313-Side 	 2.20%
+GLN313-Side 	 DG223-Side 	 14.90%
+GLN313-Side 	 DA222-Side 	 19.25%
+GLN313-Side 	 DC221-Side 	 0.60%
+GLN313-Side 	 DA220-Side 	 0.35%
+DA220-Side 	 GLN313-Side 	 0.05%
+DC221-Side 	 GLN313-Side 	 0.25%
+GLN313-Main 	 DA222-Side 	 31.25%
+GLN313-Side 	 DT75-Side 	 0.15%

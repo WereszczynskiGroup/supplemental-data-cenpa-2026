@@ -1,0 +1,10 @@
+Found 8 hbonds.
+donor 		 acceptor 	 occupancy
+GLY306-Main 	 DT142-Side 	 0.15%
+GLY306-Main 	 DC143-Side 	 0.05%
+GLY306-Main 	 DA141-Side 	 0.50%
+GLY306-Main 	 DC150-Side 	 0.05%
+DC143-Side 	 GLY306-Main 	 10.00%
+DT142-Side 	 GLY306-Main 	 0.25%
+GLY306-Main 	 DG151-Side 	 2.20%
+DC150-Side 	 GLY306-Main 	 0.05%

@@ -1,0 +1,10 @@
+Found 8 hbonds.
+donor 		 acceptor 	 occupancy
+PRO820-Side 	 DG225-Side 	 0.05%
+PRO820-Main 	 DT3294-Side 	 0.30%
+DT3294-Side 	 PRO820-Main 	 0.05%
+PRO820-Side 	 DT3294-Side 	 0.10%
+PRO820-Side 	 DA51-Side 	 0.10%
+PRO820-Main 	 DA51-Side 	 0.05%
+PRO820-Main 	 DA293-Side 	 0.05%
+DG292-Side 	 PRO820-Main 	 0.20%

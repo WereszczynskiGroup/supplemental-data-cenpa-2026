@@ -1,0 +1,14 @@
+Found 12 hbonds.
+donor 		 acceptor 	 occupancy
+TYR335-Side 	 DG145-Side 	 1.35%
+TYR335-Side 	 DC144-Side 	 0.10%
+TYR335-Side 	 DT154-Side 	 2.55%
+TYR335-Side 	 DG231-Side 	 1.55%
+TYR335-Side 	 DT230-Side 	 0.35%
+TYR335-Side 	 DA153-Side 	 0.55%
+DT154-Side 	 TYR335-Side 	 0.35%
+TYR335-Side 	 DA146-Side 	 0.50%
+DG145-Side 	 TYR335-Side 	 0.05%
+TYR335-Main 	 DA146-Side 	 0.10%
+DT230-Side 	 TYR335-Main 	 0.05%
+TYR335-Side 	 DG155-Side 	 12.70%

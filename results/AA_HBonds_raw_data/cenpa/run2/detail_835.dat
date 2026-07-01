@@ -1,0 +1,11 @@
+Found 9 hbonds.
+donor 		 acceptor 	 occupancy
+TRP835-Main 	 DA7-Side 	 0.05%
+TRP835-Side 	 DA8-Side 	 26.65%
+TRP835-Side 	 DA7-Side 	 9.90%
+DT290-Side 	 TRP835-Side 	 0.05%
+DA7-Side 	 TRP835-Side 	 0.30%
+TRP835-Side 	 DC291-Side 	 0.30%
+DC291-Side 	 TRP835-Side 	 0.05%
+DA8-Side 	 TRP835-Side 	 0.40%
+TRP835-Side 	 DT9-Side 	 0.15%

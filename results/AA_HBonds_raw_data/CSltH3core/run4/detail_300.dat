@@ -1,0 +1,10 @@
+Found 8 hbonds.
+donor 		 acceptor 	 occupancy
+SER300-Side 	 DC150-Side 	 9.75%
+DC150-Side 	 SER300-Side 	 0.20%
+SER300-Main 	 DG151-Side 	 1.85%
+SER300-Side 	 DG151-Side 	 0.75%
+SER300-Main 	 DC150-Side 	 0.05%
+SER300-Side 	 DT3147-Side 	 0.15%
+DT3147-Side 	 SER300-Side 	 0.05%
+SER300-Main 	 DT3147-Side 	 0.25%

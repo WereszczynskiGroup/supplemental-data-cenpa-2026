@@ -1,0 +1,15 @@
+Found 13 hbonds.
+donor 		 acceptor 	 occupancy
+ARG320-Side 	 DG145-Side 	 0.85%
+ARG320-Side 	 DA146-Side 	 9.45%
+ARG320-Side 	 DT3147-Side 	 0.90%
+ARG320-Side 	 DG67-Side 	 39.25%
+ARG320-Side 	 DT68-Side 	 6.40%
+ARG320-Main 	 DT68-Side 	 1.05%
+DA146-Side 	 ARG320-Side 	 0.05%
+ARG320-Side 	 DG225-Side 	 0.20%
+ARG320-Side 	 DA69-Side 	 0.35%
+ARG320-Side 	 DC66-Side 	 1.10%
+ARG320-Side 	 DA227-Side 	 0.45%
+DG67-Side 	 ARG320-Main 	 0.05%
+DC66-Side 	 ARG320-Side 	 0.05%

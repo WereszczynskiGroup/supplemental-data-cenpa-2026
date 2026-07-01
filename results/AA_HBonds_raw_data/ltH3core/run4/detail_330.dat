@@ -1,0 +1,8 @@
+Found 6 hbonds.
+donor 		 acceptor 	 occupancy
+SER330-Main 	 DT3147-Side 	 0.10%
+SER330-Side 	 DT68-Side 	 0.35%
+SER330-Side 	 DT3147-Side 	 1.50%
+DT3147-Side 	 SER330-Side 	 0.35%
+DT3147-Side 	 SER330-Main 	 0.05%
+SER330-Side 	 DA69-Side 	 0.20%

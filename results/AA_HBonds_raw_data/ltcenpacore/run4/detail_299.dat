@@ -1,0 +1,11 @@
+Found 9 hbonds.
+donor 		 acceptor 	 occupancy
+GLN299-Main 	 DA141-Side 	 4.05%
+GLN299-Side 	 DA141-Side 	 3.20%
+GLN299-Side 	 DT142-Side 	 0.75%
+DA141-Side 	 GLN299-Side 	 0.15%
+GLN299-Side 	 DT158-Side 	 0.95%
+GLN299-Main 	 DC140-Side 	 35.30%
+GLN299-Side 	 DC140-Side 	 1.55%
+GLN299-Side 	 DA157-Side 	 0.05%
+DC140-Side 	 GLN299-Side 	 0.10%

@@ -1,0 +1,10 @@
+Found 8 hbonds.
+donor 		 acceptor 	 occupancy
+ARG309-Side 	 DA146-Side 	 27.15%
+ARG309-Side 	 DA68-Side 	 11.70%
+DA68-Side 	 ARG309-Side 	 0.05%
+ARG309-Side 	 DG69-Side 	 0.65%
+ARG309-Main 	 DG145-Side 	 31.10%
+ARG309-Side 	 DG145-Side 	 12.85%
+DG145-Side 	 ARG309-Main 	 0.05%
+DG145-Side 	 ARG309-Side 	 0.15%

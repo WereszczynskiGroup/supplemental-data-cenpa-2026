@@ -1,0 +1,16 @@
+Found 14 hbonds.
+donor 		 acceptor 	 occupancy
+HIE828-Side 	 DG216-Side 	 0.20%
+HIE828-Side 	 DA293-Side 	 1.20%
+HIE828-Side 	 DG292-Side 	 0.85%
+HIE828-Side 	 DA7-Side 	 1.80%
+HIE828-Side 	 DG6-Side 	 6.70%
+DG292-Side 	 HIE828-Side 	 0.10%
+HIE828-Side 	 DA5-Side 	 0.50%
+HIE828-Side 	 DG85-Side 	 9.25%
+HIE828-Side 	 DC84-Side 	 2.95%
+DC84-Side 	 HIE828-Side 	 0.40%
+HIE828-Main 	 DC84-Side 	 16.85%
+HIE828-Side 	 DG83-Side 	 0.15%
+DG292-Side 	 HIE828-Main 	 0.05%
+DC84-Side 	 HIE828-Main 	 0.05%

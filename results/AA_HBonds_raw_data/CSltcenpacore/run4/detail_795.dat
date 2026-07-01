@@ -1,0 +1,15 @@
+Found 13 hbonds.
+donor 		 acceptor 	 occupancy
+GLN795-Main 	 DA51-Side 	 3.20%
+DA51-Side 	 GLN795-Main 	 17.35%
+DA51-Side 	 GLN795-Side 	 4.85%
+GLN795-Side 	 DA51-Side 	 3.90%
+GLN795-Side 	 DT2-Side 	 0.65%
+DT2-Side 	 GLN795-Side 	 0.05%
+DA293-Side 	 GLN795-Side 	 0.55%
+GLN795-Side 	 DA293-Side 	 0.25%
+GLN795-Side 	 DG292-Side 	 1.05%
+DC3-Side 	 GLN795-Side 	 0.05%
+DT291-Side 	 GLN795-Side 	 0.05%
+GLN795-Side 	 DT3294-Side 	 0.25%
+DT3294-Side 	 GLN795-Main 	 0.05%

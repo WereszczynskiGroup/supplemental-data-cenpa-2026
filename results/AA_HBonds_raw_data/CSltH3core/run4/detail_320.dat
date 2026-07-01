@@ -1,0 +1,9 @@
+Found 7 hbonds.
+donor 		 acceptor 	 occupancy
+SER320-Side 	 DT3147-Side 	 0.05%
+SER320-Main 	 DA146-Side 	 8.40%
+DA5148-Side 	 SER320-Main 	 0.20%
+DA5148-Side 	 SER320-Side 	 0.25%
+SER320-Main 	 DA5148-Side 	 0.10%
+SER320-Side 	 DA146-Side 	 0.40%
+SER320-Side 	 DG145-Side 	 0.30%

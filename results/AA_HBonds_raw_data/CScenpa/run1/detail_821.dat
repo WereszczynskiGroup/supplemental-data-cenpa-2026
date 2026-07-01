@@ -1,0 +1,10 @@
+Found 8 hbonds.
+donor 		 acceptor 	 occupancy
+DT3294-Side 	 LEU821-Main 	 2.40%
+LEU821-Main 	 DT2-Side 	 0.05%
+DT2-Side 	 LEU821-Side 	 0.10%
+LEU821-Side 	 DT2-Side 	 0.05%
+LEU821-Main 	 DC3-Side 	 0.35%
+LEU821-Side 	 DT3294-Side 	 0.65%
+LEU821-Main 	 DT3294-Side 	 5.45%
+DC3-Side 	 LEU821-Main 	 0.20%

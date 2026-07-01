@@ -1,0 +1,13 @@
+Found 11 hbonds.
+donor 		 acceptor 	 occupancy
+THR300-Side 	 DC64-Side 	 18.10%
+THR300-Main 	 DC64-Side 	 2.20%
+THR300-Main 	 DA65-Side 	 7.25%
+THR300-Side 	 DG63-Side 	 0.05%
+THR300-Side 	 DA65-Side 	 5.95%
+DC64-Side 	 THR300-Side 	 0.20%
+THR300-Main 	 DT234-Side 	 8.75%
+THR300-Side 	 DT234-Side 	 13.80%
+THR300-Side 	 DG233-Side 	 4.05%
+DG233-Side 	 THR300-Main 	 0.30%
+THR300-Main 	 DG233-Side 	 0.60%

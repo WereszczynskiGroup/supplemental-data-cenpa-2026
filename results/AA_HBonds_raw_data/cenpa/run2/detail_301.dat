@@ -1,0 +1,6 @@
+Found 4 hbonds.
+donor 		 acceptor 	 occupancy
+ARG301-Main 	 DT68-Side 	 0.05%
+DT68-Side 	 ARG301-Main 	 0.05%
+ARG301-Side 	 DG67-Side 	 2.70%
+ARG301-Side 	 DT68-Side 	 14.85%

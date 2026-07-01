@@ -1,0 +1,17 @@
+Found 15 hbonds.
+donor 		 acceptor 	 occupancy
+DC291-Side 	 VAL820-Main 	 0.25%
+VAL820-Main 	 DC291-Side 	 0.10%
+VAL820-Side 	 DC291-Side 	 0.05%
+VAL820-Main 	 DA8-Side 	 0.10%
+VAL820-Side 	 DG292-Side 	 0.05%
+VAL820-Main 	 DG292-Side 	 0.45%
+VAL820-Main 	 DA293-Side 	 0.60%
+VAL820-Side 	 DA293-Side 	 0.05%
+VAL820-Main 	 DA7-Side 	 1.20%
+VAL820-Side 	 DA7-Side 	 0.05%
+VAL820-Side 	 DA8-Side 	 0.05%
+DA7-Side 	 VAL820-Main 	 0.05%
+VAL820-Main 	 DT86-Side 	 0.05%
+VAL820-Main 	 DG85-Side 	 0.25%
+DG85-Side 	 VAL820-Main 	 0.05%

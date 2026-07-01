@@ -1,0 +1,13 @@
+Found 11 hbonds.
+donor 		 acceptor 	 occupancy
+GLN790-Side 	 DG76-Side 	 2.20%
+GLN790-Side 	 DA77-Side 	 7.60%
+GLN790-Main 	 DG76-Side 	 7.70%
+DG76-Side 	 GLN790-Main 	 0.15%
+GLN790-Main 	 DA77-Side 	 0.75%
+GLN790-Side 	 DG78-Side 	 1.05%
+DA77-Side 	 GLN790-Side 	 0.05%
+DG78-Side 	 GLN790-Side 	 0.05%
+GLN790-Side 	 DA216-Side 	 1.25%
+GLN790-Side 	 DT3294-Side 	 1.25%
+DT3294-Side 	 GLN790-Side 	 0.10%

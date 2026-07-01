@@ -1,0 +1,17 @@
+Found 15 hbonds.
+donor 		 acceptor 	 occupancy
+ARG825-Main 	 DC215-Side 	 20.15%
+ARG825-Side 	 DT214-Side 	 21.05%
+ARG825-Side 	 DC215-Side 	 81.10%
+DT214-Side 	 ARG825-Side 	 0.55%
+ARG825-Side 	 DC84-Side 	 0.30%
+ARG825-Side 	 DA83-Side 	 0.05%
+DC215-Side 	 ARG825-Side 	 0.05%
+ARG825-Main 	 DA293-Side 	 0.05%
+ARG825-Side 	 DG292-Side 	 17.05%
+ARG825-Side 	 DA293-Side 	 23.20%
+DT291-Side 	 ARG825-Side 	 0.10%
+ARG825-Side 	 DT291-Side 	 0.55%
+ARG825-Side 	 DT3294-Side 	 0.55%
+ARG825-Main 	 DT3294-Side 	 0.35%
+ARG825-Main 	 DA216-Side 	 0.15%

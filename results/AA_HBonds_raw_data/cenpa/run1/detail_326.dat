@@ -1,0 +1,5 @@
+Found 3 hbonds.
+donor 		 acceptor 	 occupancy
+LEU326-Side 	 DT3147-Side 	 0.15%
+DT3147-Side 	 LEU326-Main 	 0.65%
+LEU326-Main 	 DT3147-Side 	 0.10%

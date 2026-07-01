@@ -1,0 +1,14 @@
+Found 12 hbonds.
+donor 		 acceptor 	 occupancy
+HIE333-Side 	 DG152-Side 	 0.10%
+HIE333-Main 	 DA146-Side 	 0.30%
+HIE333-Side 	 DA153-Side 	 0.10%
+HIE333-Side 	 DC144-Side 	 0.30%
+DA153-Side 	 HIE333-Side 	 0.10%
+HIE333-Side 	 DG145-Side 	 0.80%
+HIE333-Side 	 DT68-Side 	 2.45%
+HIE333-Side 	 DA146-Side 	 0.25%
+HIE333-Side 	 DG67-Side 	 1.35%
+HIE333-Side 	 DG231-Side 	 0.10%
+DG231-Side 	 HIE333-Main 	 0.25%
+HIE333-Side 	 DT154-Side 	 0.10%

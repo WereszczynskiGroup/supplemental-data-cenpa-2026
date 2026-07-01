@@ -1,0 +1,9 @@
+Found 7 hbonds.
+donor 		 acceptor 	 occupancy
+GLU304-Main 	 DA224-Side 	 0.60%
+GLU304-Side 	 DA224-Side 	 0.05%
+DA222-Side 	 GLU304-Side 	 0.40%
+GLU304-Main 	 DG223-Side 	 1.55%
+DG223-Side 	 GLU304-Side 	 0.10%
+GLU304-Side 	 DG223-Side 	 0.05%
+DA224-Side 	 GLU304-Main 	 0.40%

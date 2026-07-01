@@ -1,0 +1,17 @@
+Found 15 hbonds.
+donor 		 acceptor 	 occupancy
+LYS827-Side 	 DC215-Side 	 0.50%
+LYS827-Side 	 DT214-Side 	 2.65%
+LYS827-Side 	 DG78-Side 	 0.15%
+LYS827-Side 	 DA77-Side 	 0.05%
+LYS827-Side 	 DA216-Side 	 0.05%
+LYS827-Side 	 DT79-Side 	 0.80%
+LYS827-Side 	 DG80-Side 	 8.20%
+LYS827-Main 	 DT79-Side 	 8.70%
+DA216-Side 	 LYS827-Main 	 1.20%
+LYS827-Side 	 DT213-Side 	 0.15%
+DC215-Side 	 LYS827-Main 	 0.20%
+LYS827-Side 	 DA293-Side 	 1.00%
+LYS827-Side 	 DT3294-Side 	 0.10%
+LYS827-Main 	 DC215-Side 	 0.95%
+LYS827-Main 	 DT214-Side 	 0.60%

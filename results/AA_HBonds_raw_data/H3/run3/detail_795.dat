@@ -1,0 +1,12 @@
+Found 10 hbonds.
+donor 		 acceptor 	 occupancy
+SER795-Main 	 DT290-Side 	 0.05%
+DA51-Side 	 SER795-Main 	 1.20%
+SER795-Main 	 DT3294-Side 	 0.05%
+DA51-Side 	 SER795-Side 	 0.60%
+SER795-Side 	 DT2-Side 	 1.15%
+DT2-Side 	 SER795-Main 	 0.10%
+DT3294-Side 	 SER795-Main 	 0.40%
+SER795-Side 	 DT3294-Side 	 2.25%
+SER795-Side 	 DA51-Side 	 3.70%
+DT2-Side 	 SER795-Side 	 0.20%

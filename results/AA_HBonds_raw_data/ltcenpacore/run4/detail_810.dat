@@ -1,0 +1,7 @@
+Found 5 hbonds.
+donor 		 acceptor 	 occupancy
+LEU810-Side 	 DT77-Side 	 0.20%
+LEU810-Side 	 DG76-Side 	 0.25%
+DG76-Side 	 LEU810-Main 	 0.05%
+LEU810-Side 	 DG221-Side 	 0.05%
+DG221-Side 	 LEU810-Main 	 0.10%

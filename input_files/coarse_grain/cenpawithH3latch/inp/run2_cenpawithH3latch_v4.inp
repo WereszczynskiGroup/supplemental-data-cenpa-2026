@@ -1,0 +1,164 @@
+**************************************************************
+**                                                          **
+**              Input file of CafeMol(v2.2)                 **
+**                                                          **
+**         for simulation of nucleosome sliding             **
+**                                                          **
+**                   2016 03 30 15:30                       **
+**                                                          **
+**************************************************************
+
+<<<< filenames
+path = /home/jlee295/cafemol/sysprep/cenpawithH3latch/run2
+filename = cenpawithH3latch_2_ext3
+OUTPUT dcd psf rst pdb
+path_para = /home/jlee295/cafemol/nucleosome_cafemol/para3_exv1.1ssns
+path_pdb = /home/jlee295/cafemol/pdb
+path_ini = /home/jlee295/cafemol/sysprep/cenpawithH3latch/run2
+path_natinfo = /home/jlee295/cafemol/sysprep/cenpawithH3latch/run2
+>>>>
+
+<<<< job_cntl
+i_run_mode = 2
+i_simulate_type = 1
+i_initial_state = 8
+>>>>
+
+<<<< unit_and_state
+i_seq_read_style = 1 
+i_go_native_read_style = 2
+1-2  dna2      cenpawithH3latch_DNA.pdb
+3-10 protein   2.cenpawithH3latchhistones.pdb 
+>>>>
+
+<<<< native_info_sim1
+NINFO(1/1) 1
+1 = strand1.ninfo
+NINFO(2/2) 2
+2 = strand2.ninfo
+NINFO(3/3) 3
+3 = unit3-3.ninfo
+NINFO(3/4) 4
+4 = unit3-4.ninfo
+NINFO(3/5) 5
+5 = unit3-5.ninfo
+NINFO(3/7) 6
+6 = unit3-7.ninfo
+NINFO(3/9) 7
+7 = unit3-9.ninfo
+NINFO(4/4) 8
+8 = unit4-4.ninfo
+NINFO(4/5) 9
+9 = unit4-5.ninfo
+NINFO(4/6) 10
+10 = unit4-6.ninfo
+NINFO(4/7) 11
+11 = unit4-7.ninfo
+NINFO(4/9) 12
+12 = unit4-9.ninfo
+NINFO(4/10) 13
+13 = unit4-10.ninfo
+NINFO(5/5) 14
+14 = unit5-5.ninfo
+NINFO(5/6) 15
+15 = unit5-6.ninfo
+NINFO(5/7) 16
+16 = unit5-7.ninfo
+NINFO(5/8) 17
+17 = unit5-8.ninfo
+NINFO(5/9) 18
+18 = unit5-9.ninfo
+NINFO(5/10) 19
+19 = unit5-10.ninfo
+NINFO(6/6) 20
+20 = unit6-6.ninfo
+NINFO(6/8) 21
+21 = unit6-8.ninfo
+NINFO(6/9) 22
+22 = unit6-9.ninfo
+NINFO(6/10) 23
+23 = unit6-10.ninfo
+NINFO(7/7) 24
+24 = unit7-7.ninfo
+NINFO(7/8) 25
+25 = unit7-8.ninfo
+NINFO(7/9) 26
+26 = unit7-9.ninfo
+NINFO(8/8) 27
+27 = unit8-8.ninfo
+NINFO(8/10) 28
+28 = unit8-10.ninfo
+NINFO(9/9) 29
+29 = unit9-9.ninfo
+NINFO(9/10) 30
+30 = unit9-10.ninfo
+NINFO(10/10) 31
+31 = unit10-10.ninfo
+NINFO(1-2/3) 32
+32 = cenpawithH3latch_pdns_unit3.ninfo
+NINFO(1-2/4) 33
+33 = cenpawithH3latch_pdns_unit4.ninfo
+NINFO(1-2/5) 34
+34 = cenpawithH3latch_pdns_unit5.ninfo
+NINFO(1-2/6) 35
+35 = cenpawithH3latch_pdns_unit6.ninfo
+NINFO(1-2/7) 36
+36 = cenpawithH3latch_pdns_unit7.ninfo
+NINFO(1-2/8) 37
+37 = cenpawithH3latch_pdns_unit8.ninfo
+NINFO(1-2/9) 38
+38 = cenpawithH3latch_pdns_unit9.ninfo
+NINFO(1-2/10) 39
+39 = cenpawithH3latch_pdns_unit10.ninfo
+>>>>
+
+<<<< energy_function
+LOCAL(1-2)        L_DNA2C
+LOCAL(3-10)       L_AICG2_PLUS
+NLOCAL(1-2/1-2)   DNA2C  ELE
+NLOCAL(1-2/3-10)  EXV    ELE  PRO_DNA_NONSPEC
+NLOCAL(3-10/3-10) AICG2  EXV  ELE
+i_flp = 1
+i_use_atom_protein = 0
+i_use_atom_dna = 0
+i_coef_from_ninfo = 1
+i_residue_exv_radii = 1
+i_output_energy_style = 1
+>>>>
+
+<<<< md_information
+n_step_sim = 1
+n_tstep(1) = 80000000
+tstep_size = 0.3
+n_step_save = 1000
+n_step_rst = 1000000
+n_step_neighbor = 100
+i_com_zeroing_ini = 0
+i_com_zeroing = 0
+i_no_trans_rot = 0
+i_del_int = 0
+i_redef_para = 0
+tempk = 300.0
+n_seed = -1
+>>>>
+
+<<<< aicg
+i_aicg = 1
+>>>>
+
+<<<< in_pdns
+pro_dna_nonspec_factor = 1.8
+>>>>
+
+<<<< flexible_local
+k_dih = 1.00000
+k_ang = 1.00000
+>>>>
+
+<<<< electrostatic
+cutoff_ele = 20.0
+ionic_strength = 0.15
+dna2_phos_pro_charge = -1.0
+diele_water = 78.0
+i_diele = 1
+>>>>

@@ -1,0 +1,11 @@
+Found 9 hbonds.
+donor 		 acceptor 	 occupancy
+ARG816-Side 	 DT77-Side 	 2.90%
+ARG816-Side 	 DG216-Side 	 38.40%
+ARG816-Side 	 DC79-Side 	 0.15%
+ARG816-Side 	 DG217-Side 	 29.35%
+DC79-Side 	 ARG816-Main 	 76.00%
+ARG816-Main 	 DC78-Side 	 1.00%
+ARG816-Side 	 DG215-Side 	 0.80%
+DG215-Side 	 ARG816-Side 	 0.35%
+ARG816-Side 	 DC78-Side 	 0.55%

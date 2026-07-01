@@ -1,0 +1,15 @@
+Found 13 hbonds.
+donor 		 acceptor 	 occupancy
+GLY790-Main 	 DC3-Side 	 0.45%
+GLY790-Main 	 DA4-Side 	 0.30%
+GLY790-Main 	 DT2-Side 	 0.35%
+GLY790-Main 	 DA51-Side 	 0.10%
+GLY790-Main 	 DA288-Side 	 1.35%
+GLY790-Main 	 DT289-Side 	 2.95%
+GLY790-Main 	 DA5-Side 	 0.35%
+DA5-Side 	 GLY790-Main 	 0.10%
+GLY790-Main 	 DT287-Side 	 0.45%
+GLY790-Main 	 DC11-Side 	 0.15%
+DA288-Side 	 GLY790-Main 	 1.50%
+GLY790-Main 	 DC10-Side 	 0.25%
+DC10-Side 	 GLY790-Main 	 0.40%

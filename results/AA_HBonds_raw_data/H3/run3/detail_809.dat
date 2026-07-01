@@ -1,0 +1,14 @@
+Found 12 hbonds.
+donor 		 acceptor 	 occupancy
+ALA809-Main 	 DC10-Side 	 0.15%
+ALA809-Main 	 DT9-Side 	 0.90%
+ALA809-Main 	 DT290-Side 	 0.25%
+DA8-Side 	 ALA809-Main 	 0.10%
+ALA809-Side 	 DA8-Side 	 0.05%
+ALA809-Side 	 DT9-Side 	 0.05%
+ALA809-Main 	 DG292-Side 	 7.60%
+ALA809-Main 	 DT3294-Side 	 3.15%
+DG4-Side 	 ALA809-Main 	 0.05%
+DA293-Side 	 ALA809-Main 	 0.45%
+ALA809-Main 	 DA293-Side 	 0.90%
+DA5-Side 	 ALA809-Main 	 0.25%

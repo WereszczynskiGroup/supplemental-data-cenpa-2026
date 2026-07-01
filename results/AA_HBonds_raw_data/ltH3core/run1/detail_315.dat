@@ -1,0 +1,7 @@
+Found 5 hbonds.
+donor 		 acceptor 	 occupancy
+PRO315-Main 	 DC66-Side 	 0.75%
+PRO315-Side 	 DA65-Side 	 1.45%
+PRO315-Main 	 DA65-Side 	 0.10%
+DA65-Side 	 PRO315-Side 	 0.05%
+PRO315-Side 	 DC66-Side 	 0.05%

@@ -1,0 +1,13 @@
+parm [YOUR_PRMTOP].prmtop	#prmtop file used to run the simulation
+
+parmstrip :WAT
+
+parmstrip :K+
+
+parmstrip :Cl-
+
+parmstrip :295-1276		#residue range(s) you want to strip from the prmtop; will need to make one for complex(protein and DNA)/ligand(protein)/receptor(DNA)
+
+parmwrite out [OUTPUT_PRMTOP].prmtop		#prmtop output file
+
+go

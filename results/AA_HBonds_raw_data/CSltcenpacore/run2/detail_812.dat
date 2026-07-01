@@ -1,0 +1,13 @@
+Found 11 hbonds.
+donor 		 acceptor 	 occupancy
+THR812-Main 	 DG76-Side 	 0.65%
+THR812-Side 	 DT75-Side 	 2.70%
+THR812-Side 	 DG76-Side 	 6.90%
+DT75-Side 	 THR812-Side 	 0.10%
+THR812-Main 	 DT75-Side 	 0.80%
+DT75-Side 	 THR812-Main 	 0.05%
+THR812-Side 	 DG223-Side 	 0.95%
+THR812-Side 	 DA224-Side 	 0.45%
+THR812-Main 	 DA224-Side 	 0.35%
+THR812-Main 	 DG223-Side 	 0.45%
+THR812-Side 	 DA222-Side 	 0.05%

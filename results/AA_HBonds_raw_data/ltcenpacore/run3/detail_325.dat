@@ -1,0 +1,6 @@
+Found 4 hbonds.
+donor 		 acceptor 	 occupancy
+ALA325-Main 	 DA5148-Side 	 0.90%
+ALA325-Main 	 DT3147-Side 	 0.35%
+ALA325-Side 	 DA5148-Side 	 0.05%
+DT3147-Side 	 ALA325-Main 	 0.10%

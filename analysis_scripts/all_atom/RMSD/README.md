@@ -1,0 +1,1 @@
+Modify 'RMSD_DNA_calc.sh' to the user's specific environment and liking, then execute to generate the 'results/AA_RMSD_raw_data/'. From there, simply execute the two 'subplotted...' python scripts to plot the RMSD all-atom dataset seen in SI Figure 10.

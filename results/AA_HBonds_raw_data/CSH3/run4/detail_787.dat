@@ -1,0 +1,12 @@
+Found 10 hbonds.
+donor 		 acceptor 	 occupancy
+ARG787-Side 	 DG225-Side 	 55.50%
+ARG787-Main 	 DG225-Side 	 59.10%
+ARG787-Main 	 DA224-Side 	 10.35%
+DA224-Side 	 ARG787-Main 	 10.65%
+ARG787-Side 	 DA224-Side 	 29.15%
+DA224-Side 	 ARG787-Side 	 0.95%
+ARG787-Main 	 DG74-Side 	 0.85%
+ARG787-Side 	 DT73-Side 	 0.45%
+ARG787-Side 	 DG74-Side 	 1.35%
+DT73-Side 	 ARG787-Side 	 0.05%

@@ -1,0 +1,15 @@
+#Per-residue GB and PB decomposition
+&general
+  endframe={INPUT_TOTAL_FRAMES}, verbose=1, keep_files=2
+/
+&gb
+ igb=8, saltcon=0.150,
+/
+/
+&decomp
+ idecomp=1, print_res="{INPUT_RES_RANGE}"
+ csv_format=0,
+ dec_verbose=0
+
+#NOTE: CHANGE ENDFRAME TO HOWEVER MANY FRAMES IN YOUR SPECIFIC TRAJECTORY. ALSO, CHANGE PRINT_RES VALUE TO NUMBER OF TOTAL RESIDUES ANALYZING WITH MMGBSA
+#(E.G. IF ANALYSING 500 RESIDUES, INPUT 1-500)

@@ -1,0 +1,13 @@
+Found 11 hbonds.
+donor 		 acceptor 	 occupancy
+PRO791-Main 	 DA4-Side 	 0.05%
+DA51-Side 	 PRO791-Main 	 0.15%
+PRO791-Side 	 DT2-Side 	 0.05%
+PRO791-Side 	 DA288-Side 	 0.40%
+PRO791-Main 	 DT289-Side 	 0.45%
+PRO791-Side 	 DT289-Side 	 0.05%
+DT287-Side 	 PRO791-Main 	 0.05%
+PRO791-Side 	 DA12-Side 	 0.05%
+PRO791-Main 	 DC10-Side 	 0.40%
+PRO791-Side 	 DC10-Side 	 0.05%
+DC10-Side 	 PRO791-Main 	 0.05%

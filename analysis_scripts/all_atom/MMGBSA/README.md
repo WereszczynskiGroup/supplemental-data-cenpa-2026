@@ -1,0 +1,5 @@
+Run slurm scripts with user specific decomp.in, prmtop, and trajectory files to generate MM/GBSA output files as seen in 'results/AA_MMGBSA_raw_data/' for the Tails, Latches, and Helices. Then run the 'Prep_xvg_files.ipynb' Jupyter notebook on all .xvg file outputs to prepare them for error propagation calculations. After, run the notebooks in the 'error_prop_calc_scripts/' directory to get MM/GBSA values and errors of each system and N-terminal region as shown in SI Tables 3-8.
+
+Next, run the 'per_residue_mmgbsa_plots/' Jupyter notebooks to get the per-residue decomposition plots shown in SI Figures 4-5.
+
+NOTE: TO OBTAIN MODIFIED PRMTOP FILES, USE THE SKELETON SCRIPT 'prmtopwriter.in' AND GENERATE YOUR SPECIFIC PRMTOP FOR COMPLEX/LIGAND/RECEPTOR AND NAME THEM '{system}comen/comex/ligen/ligex/recen/recex.prmtop'!!! IN THIS CASE, THE COMPLEX SHOULD ONLY BE THE PROTEIN REGION OF INTEREST AND ALL DNA, THE LIGAND IS ONLY THE PROTEIN REGION OF INTEREST, AND THE RECEPTOR IS ONLY ALL THE DNA. THEN EXECUTE THE 'parmed.sh' SCRIPT WHICH SHOULD MODIFY YOUR PRMTOP FILES TO BE READY FOR MM/GBSA.

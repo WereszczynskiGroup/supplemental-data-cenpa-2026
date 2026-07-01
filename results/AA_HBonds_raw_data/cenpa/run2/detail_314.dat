@@ -1,0 +1,8 @@
+Found 6 hbonds.
+donor 		 acceptor 	 occupancy
+THR314-Main 	 DA146-Side 	 8.05%
+THR314-Side 	 DA146-Side 	 10.35%
+THR314-Side 	 DT3147-Side 	 68.90%
+DT3147-Side 	 THR314-Main 	 4.20%
+THR314-Main 	 DT3147-Side 	 51.65%
+DT3147-Side 	 THR314-Side 	 0.95%
