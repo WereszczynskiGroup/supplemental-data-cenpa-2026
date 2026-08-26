@@ -1,0 +1,1 @@
+Call on the EtD per replicate file outputs of each system located in '/results/CG_etd_raw_data/{system}-dist-etd_{entry/exit}{1-4}.dat' and run the Jupyter notebook 'CG_convergence.ipynb'. Numerical outputs are in 'results/CG_convergence/' as .csv files.
