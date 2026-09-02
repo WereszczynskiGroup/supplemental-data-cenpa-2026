@@ -47,8 +47,3 @@ Coarse-grained:
 - CENP-A with H3<sub>αN</sub>: `cenpawithH3helix`
 - Tailless H3: `exnotailH3`
 - Tailless CENP-A: `exnotailcenpa`
-- WIDOM 601 H3: `matchHBWIDOMH3`
-- WIDOM 601 CENP-A: `matchHBWIDOMcenpa`
-- WIDOM 601 Tailless H3: `matchHBWIDOMexnotailH3`
-- WIDOM 601 Tailless CENP-A: `matchHBWIDOMexnotailcenpa`
-
