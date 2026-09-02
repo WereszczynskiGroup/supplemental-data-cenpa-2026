@@ -2,7 +2,7 @@
 
 source /Users/jlee295/.bashrc
 
-#THIS SCRIPT DOES AN RMSD OF THE DNA
+#THIS SCRIPT DOES AN RMSD OF THE DNA ALIGNED TO ONLY H4 CORE RESIDUES
 #####run1
 
 cd /Users/jlee295/view/H3view/run1
