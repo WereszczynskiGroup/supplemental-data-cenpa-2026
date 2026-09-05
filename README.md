@@ -21,7 +21,7 @@ If you use materials from this repository, please cite the following:
 E.A. Paintsil, J. Lee, S.S. Meidl Zahorodny, J. Wereszczynski, and E.A. Morrison, *Determinants of centromeric nucleosome conformation*, *bioRxiv*, 2026
 DOI: [10.64898/2026.05.15.724335](https://doi.org/10.64898/2026.05.15.724335)
 
-Data archive on Zenodo:
+Data archive on Zenodo: https://zenodo.org/records/22307430
 
 
 Trajectory files have been deposited on Zenodo. These files are water-stripped and strided for size reduction, but cover the full simulation time and support reproduction of results.
