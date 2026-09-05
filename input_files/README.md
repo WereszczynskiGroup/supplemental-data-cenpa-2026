@@ -8,7 +8,7 @@ This directory contains files and scripts used to generate the molecular systems
 - Coarse-grained files comprised of all necessary inputs for all systems
 - DNA sequences in .txt file format
 
-Additional files such as PRMTOP and RST files may be available upon request. Trajectories available on Zenodo:
+Additional files such as PRMTOP and RST files may be available upon request. Trajectories available on Zenodo: https://zenodo.org/records/22307430
 
 The Amber package for all-atom simulation and data analysis was utilized. All-atom systems were constructed in tleap using OPC water model boxes of various sizes to accomodate for DNA motions without periodic image interactions, and neutralized with K+ and Cl- to a final ionic strength condition of 150 mM KCl. Nucleosome systems use BSC1 and ff19SB force fields for DNA and protein, respectively. Hydrogen mass repartitioning was applied to enable the use of a 4 fs time step.
 
